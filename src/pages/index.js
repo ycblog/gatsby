@@ -17,7 +17,7 @@ function Index() {
       <Helmet>
         <title>Gatsby + Node.js (TypeScript) API</title>
       </Helmet>
-      <h1>Gatsby + Node.js (TypeScript) API</h1>
+      <h1>Gatsby + Node.js build by YC (TypeScript) API</h1>
       <h2>
         Deployed with{' '}
         <a
@@ -35,7 +35,7 @@ function Index() {
           target="_blank"
           rel="noreferrer noopener"
         >
-          This project
+          This Change
         </a>{' '}
         is a <a href="https://www.gatsbyjs.org/">Gatsby</a> app with two
         directories, <code>/src</code> for static content and <code>/api</code>{' '}
